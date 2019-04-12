@@ -1,0 +1,4 @@
+package: github.com/teamslizco/inspector-dp
+import:
+- package: github.com/sirupsen/logrus
+  version: ^1.0.3
